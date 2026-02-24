@@ -2,5 +2,9 @@
   "version": 2,
   "public": false,
   "cleanUrls": true,
-  "framework": null
+  "framework": null,
+  "rewrites": [
+    { "source": "/api", "destination": "/index.js" },
+    { "source": "/", "destination": "/public/index.html" }
+  ]
 }
