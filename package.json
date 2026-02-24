@@ -1,0 +1,24 @@
+{
+  "name": "v3gasboi-promo-funnel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "88MOB Independence Code: Automated Promo Funnel",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "mkdir -p .next && echo 'Build complete' > .next/index.html",
+    "start": "turbo run start"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "bullmq": "^4.0.0",
+    "ioredis": "^5.0.0",
+    "cron": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "pnpm@8.0.0"
+}
