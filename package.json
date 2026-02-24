@@ -15,7 +15,8 @@
     "openai": "^4.0.0",
     "bullmq": "^4.0.0",
     "ioredis": "^5.0.0",
-    "cron": "^3.0.0"
+    "cron": "^3.0.0",
+    "@vercel/analytics": "^1.4.0"
   },
   "engines": {
     "node": ">=18.0.0"
