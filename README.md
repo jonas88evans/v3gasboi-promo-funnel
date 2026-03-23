@@ -1,20 +1,47 @@
-V3GASBOI | The Independence Code 📀
+# 🎰 V3GASBOI | 89109 MOGUL HUB
 
-Welcome to the central hub of the **88MOB** movement. **V3GASBOI** is a 25-year independent mogul and Las Vegas pillar, representing the authentic hustle of the streets since 1998. 
+> **"Hustle in the shadows of the casinos. One movement built."**
 
-## 🚀 The Movement
-Emerging from the foundational **Lyrical Mindz** era, the V3GASBOI brand has cemented global authority through a relentless commitment to ownership and elite production. Under the **88MOB** banner, the enterprise encompasses music production, cinematic vlogs, and signature retail.
-
-* **Global Impact:** Over 9,000 verified streams across 35 countries.
-* **The Mission:** Executing the movement toward **10,000 plays and beyond**.
-* **The Hustle:** Bridging the gap between digital content and e-commerce.
+Welcome to the central command for the **88MOB** enterprise. Independent mogul since 1998, representing the authentic Las Vegas street authority. 
 
 ---
 
-## 🎵 Official Streaming
-Stay locked in with the latest releases and global street authority.
+## 🛍️ SHOP THE MOVEMENT
+*Get the signature 3D-designed apparel and the latest drops.*
 
+* [**Official Store (v3gasboi.online)**](https://v3gasboi.online/)
+* [**HITMKR Exclusive Shop**](https://www.hitmkr.com/v3gasboi)
+* [**The V3GASBOI Site**](https://v3gasboi.site)
 
-## 💼 The Enterprise
-> "Three brothers carried. One movement built."
-> 
+---
+
+## 🎵 STREAM THE CATALOG
+*Join the mission to 10,000+ plays. Global sound in 35+ countries.*
+
+| Platform | Link |
+| :--- | :--- |
+| **UnitedMasters** | [View Artist Profile](https://unitedmasters.com/a/v3gasboi) |
+| **Spotify** | [Listen on Spotify](https://open.spotify.com/playlist/37i9dQZF1E4vV1R2WJcI3K) |
+| **SoundCloud** | [2025/2026 Public Picks](https://m.soundcloud.com/v3gasboi) |
+| **Audiomack** | [Stream 'Turnt Up'](https://audiomack.com/v3gasboi_turntup) |
+| **YouTube** | [Watch Cinematic Vlogs](https://www.youtube.com/@V3GASBOI) |
+| **Audius** | [Listen Independent](https://audius.co/v3gasboi) |
+
+---
+
+## 🌐 THE EXPERIENCE
+*Step into the digital side of the 88MOB empire.*
+
+* 🎮 [**Hyperfy 3D Virtual Space**](https://v3gasboi.hyperfy.ai)
+* 🎤 [**iPerform Live Hub**](https://iperform.live/v3gasboi)
+* 💼 [**Professional Portfolio (LinkedIn)**](https://www.linkedin.com/in/v3gas-boi-5b3a4a1a5)
+
+---
+
+## 📱 CONNECT
+* [**Instagram**](https://www.instagram.com/vegasboii702)
+* [**TikTok**](https://www.tiktok.com/@v3gasboi)
+* [**Facebook**](https://www.facebook.com/v3gasboi)
+
+---
+**THE INDEPENDENCE CODE:** Ownership. Elite Production. Global Authority
