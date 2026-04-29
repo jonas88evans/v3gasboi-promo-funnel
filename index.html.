@@ -80,39 +80,6 @@
   --v3g-border: #2a2a2a;
 }
 
-/* Preloader */
-#v3g-preloader {
-  position: fixed; inset: 0; z-index: 99999;
-  background: var(--v3g-black);
-  display: flex; align-items: center; justify-content: center;
-  transition: opacity 0.6s ease;
-}
-#v3g-preloader.done { opacity: 0; pointer-events: none; }
-.v3g-preloader-text {
-  font-size: 3rem; font-weight: 900; letter-spacing: 0.3em;
-  color: var(--v3g-red); animation: v3g-pulse 1.2s infinite;
-}
-@keyframes v3g-pulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.5; transform: scale(0.95); }
-}
-
-/* Marquee */
-.v3g-marquee-container {
-  overflow: hidden; background: var(--v3g-red); padding: 0.8rem 0;
-}
-.v3g-marquee-track {
-  display: flex; animation: v3g-marquee 20s linear infinite; white-space: nowrap;
-}
-.v3g-marquee-track span {
-  font-size: 0.85rem; font-weight: 700; text-transform: uppercase;
-  letter-spacing: 0.2em; color: var(--v3g-white); padding: 0 2rem;
-}
-@keyframes v3g-marquee {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-
 /* Hero */
 .v3g-hero {
   min-height: 100vh; display: flex; align-items: center; justify-content: center;
@@ -334,14 +301,8 @@
 }
 .v3g-fade-in.v3g-visible { opacity: 1; transform: translateY(0); }
 </style>
-<base target="_blank">
 </head>
 <body class="v3g-page">
-
-
-
-<!-- Marquee -->
-
 
 <!-- HERO -->
 <section class="v3g-hero">
@@ -370,7 +331,7 @@
     </div>
     <div class="v3g-hero-cta">
       <a href="https://open.spotify.com/artist/6LtPbqwAXeYEq7Bs7gvAlp" class="v3g-btn v3g-btn-primary" target="_blank">Stream on Spotify</a>
-      <a href="/collections/all" class="v3g-btn v3g-btn-outline">Shop Merch</a>
+      <a href="https://v3gasboi.shop" class="v3g-btn v3g-btn-outline">Shop Merch</a>
     </div>
   </div>
 </section>
@@ -478,4 +439,25 @@
 
 <!-- ECOSYSTEM -->
 <section class="v3g-section" id="ecosystem">
-  <div class="v3g-section-header v3g-f
+  <div class="v3g-section-header v3g-fade-in">
+    <div class="v3g-section-label">The Ecosystem</div>
+    <h2>Fortune 500 Structure</h2>
+    <p>Not just an artist. A full corporate ecosystem built for independence and scale.</p>
+  </div>
+  <div class="v3g-eco-grid">
+    <div class="v3g-eco-card v3g-fade-in">
+      <div class="v3g-eco-icon">🎤</div>
+      <h3>Double-Up Records</h3>
+      <p>Independent label with full artist portal infrastructure. Distribution, promotion, and barrier-to-entry systems for signed talent.</p>
+      <a href="#">Enter Portal →</a>
+    </div>
+    <div class="v3g-eco-card v3g-fade-in">
+      <div class="v3g-eco-icon">📻</div>
+      <h3>88MOB Radio</h3>
+      <p>24/7 automated radio station broadcasting the catalog worldwide. Mixxx automation + Railway.app deployment.</p>
+      <a href="#">Listen Live →</a>
+    </div>
+    <div class="v3g-eco-card v3g-fade-in">
+      <div class="v3g-eco-icon">🛒</div>
+      <h3>v3gasboi.shop</h3>
+      <p>Official Shopify store for digital albums, merch drops, and exclusive 88MOB products. SEO-optimized for discover
